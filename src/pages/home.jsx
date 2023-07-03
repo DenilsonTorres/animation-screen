@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
     },
 
     button: {
-        color: '#FFF',
+        color: '#38c172',
         marginTop: 100,
         fontSize: 13,
     },
